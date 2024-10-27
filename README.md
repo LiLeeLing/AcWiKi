@@ -8,7 +8,7 @@
 
 #### 1.1. 本项目完全为自发组织的公益项目，我们随时欢迎您的参与和使用，并对您的付出与建议表达衷心的感谢
 
-#### 1.2. 本项目英文名称 AcWiki 中，Ac 为 Academy（学术）的简称，Wiki 意为百科，本项目与“AcFun”等并无主观或客观上的联系
+#### 1.2. 本项目英文名称 AcWiki 中，Ac 为 Academy（学术）的简称，Wiki 意为百科，本项目与“AcFun”,信息奥赛中的"Accepted"等并无主观或客观上的联系
 
 #### 1.3. 本项目更新的信息 / 内容 / 文件等资料，可能来自于贡献者本人或各类已有书籍 / 资料 / 文献，同时会积极的在互联网中引用，我们秉持尊重原则，尽可能注明引用来源，若侵犯到您的版权，请与我们联系
 
@@ -50,8 +50,8 @@
 - **获取资源**
 - **[效率优化](https://github.com/Ac-Wiki/AcWiKi/blob/main/03-tools/效率软件.md)**
   #### 网络安全
-  - **[通讯安全](https://github.com/Ac-Wiki/AcWiKi/blob/main/03-tools/Android/加密通讯.md)**
-  - **[密码管理](https://github.com/KipJayChou/AcWiKi/blob/main/03-tools/cyber%20security/password_manage1.md)**
+   - **[通讯安全](https://github.com/Ac-Wiki/AcWiKi/blob/main/03-tools/Android/加密通讯.md)**
+   - **[密码管理](https://github.com/KipJayChou/AcWiKi/blob/main/03-tools/cyber%20security/password_manage1.md)**
   #### 校园应用
   - **[风驰电掣](https://github.com/Ac-Wiki/AcWiKi/blob/main/03-tools/qi-ji-yin-qiao/campus-running.md)**
   - **[珍惜时间](https://github.com/Ac-Wiki/AcWiKi/blob/main/03-tools/qi-ji-yin-qiao/pointless-courses.md)**
