@@ -15,7 +15,7 @@
 
 ## [爱传送](https://mfiles.maokebing.com/)
 
-局域网多端传送/剪贴板同步软件，支持iOS，Android，Windows，MacOs
+局域网多端传送/剪贴板同步软件，支持 iOS，Android，Windows，MacOs
 
 ## [Everything](https://www.voidtools.com/zh-cn/downloads/)
 
@@ -27,7 +27,7 @@
 
 ## [qttabbar](https://indiff.github.io/qttabbar/README_zh.html)
 
-资源管理器QTTabBar是一款可以让你在Windows资源管理器中使用Tab多标签功能的小工具。
+资源管理器 QTTabBar 是一款可以让你在 Windows 资源管理器中使用 Tab 多标签功能的小工具。
 
 ## [Total Commander](https://www.ghisler.com/)
 
@@ -47,7 +47,7 @@ via 小众软件
 
 ## [小黑课堂计算机题库](http://124.222.229.85/DuiHuanMaWeb/admin/allsofts.php)
 
-涵盖了一二级的WPS、Ms Office，二级python、C语言，三级网络技术题库
+涵盖了一二级的 WPS、Ms Office，二级 python、C 语言，三级网络技术题库
 
 # MacOS
 
@@ -127,7 +127,7 @@ https://registry.npmmirror.com/@aisouler/gkd_subscription/latest/files/dist/AIso
 
 手机锁机软件，提供定时锁机，使用手机数据统计，番茄时钟等功能
 
-相似产品 [Zen Space](https://play.google.com/store/apps/details?id=com.oneplus.brickmode) (OnePlus预装，更为简洁) [远离手机](https://www.coolapk.com/apk/com.lijianqiang12.silent)
+相似产品 [Zen Space](https://play.google.com/store/apps/details?id=com.oneplus.brickmode) (OnePlus 预装，更为简洁) [远离手机](https://www.coolapk.com/apk/com.lijianqiang12.silent)
 
 ## [滴答清单](https://www.coolapk.com/apk/cn.ticktick.task)
 
