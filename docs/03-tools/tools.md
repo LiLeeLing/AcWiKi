@@ -158,3 +158,9 @@ Neovim 的预制发行版，速度快，安装和更新容易。非常适合 Lin
 ## [localsend](https://github.com/localsend/localsend)
 
 LocalSend 是一个开源的、跨平台应用程序，允许你在本地网络上与附近设备分享文件和消息，无需互联网连接。类似于 Mac 的 AirDrop
+
+## [SMSForwarder](https://github.com/pppscn/SmsForwarder)
+
+开源的消息转发程序，可实现android to ios，android to android的消息转发与远程控制。允许转发应用通知，通话情况，短信。并支持设置多种发送方式，格式与规则。
+
+对于ios接收端，推荐使用bark，对于Android接收端，推荐使用TG Bot/钉钉/飞书机器人。
