@@ -148,9 +148,9 @@ LocalSend 是一个开源的、跨平台应用程序，允许你在本地网络�
 
 ### [SMSForwarder](https://github.com/pppscn/SmsForwarder)
 
-开源的消息转发程序，可实现android to ios，android to android的消息转发与远程控制。允许转发应用通知，通话情况，短信。并支持设置多种发送方式，格式与规则。
+开源的消息转发程序，可实现 android to ios，android to android 的消息转发与远程控制。允许转发应用通知，通话情况，短信。并支持设置多种发送方式，格式与规则。
 
-对于ios接收端，推荐使用bark，对于Android接收端，推荐使用TG Bot/钉钉/飞书机器人。
+对于 ios 接收端，推荐使用 bark，对于 Android 接收端，推荐使用 TG Bot/钉钉/飞书机器人。
 
 ## 浏览器插件
 
